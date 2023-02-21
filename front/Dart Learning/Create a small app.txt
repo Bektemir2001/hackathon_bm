@@ -1,0 +1,5 @@
+dart create -t console-full cli
+-------------------------------
+Run the app
+cd cli
+dart run
