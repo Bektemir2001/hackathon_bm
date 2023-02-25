@@ -5,6 +5,10 @@
 /public/storage
 /storage/*.key
 /vendor
+/public/assets/
+/public/dist/
+/public/plugins/
+/public/table
 .env
 .env.backup
 .env.production
